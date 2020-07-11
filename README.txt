@@ -1,1 +1,0 @@
-I am still trying to learn Python so any comment on what can be done better writing this calculator would be appreciated.
