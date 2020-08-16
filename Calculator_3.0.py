@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 import sys
 import math
 print("Calculator_3.0")
